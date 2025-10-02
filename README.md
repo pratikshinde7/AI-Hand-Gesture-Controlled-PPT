@@ -37,7 +37,6 @@ python -m venv venv
 
 Activate the Environment:
 
-# On Windows
 .\venv\Scripts\activate
 
 Install Dependencies:
@@ -62,5 +61,6 @@ In "Draw" Mode:
 Index + Middle finger: Show Pointer
 
 Index finger only: Draw on the slide
+
 
 Index + Middle + Ring finger: Erase the last drawing
